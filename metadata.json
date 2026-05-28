@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Extintores VR - Virtualizar",
+  "description": "Plataforma de capacitación inmersiva con realidad virtual para la extinción de incendios, cumplimiento de normativa DS594 y DS44 en Chile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
